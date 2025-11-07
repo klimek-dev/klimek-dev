@@ -1,16 +1,43 @@
-## Hi there 👋
+### Olá! Eu sou o Igor Klimek 👋
 
-<!--
-**klimek-dev/klimek-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> <em>Dev Full-Stack | Fundador da Klimek Solutions</em> </p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+🔭 Atualmente trabalhando no **[ListaFácil](https://klimek-dev.github.io/listafacil/)** e na **[Klimek Solutions](https://instagram.com/klimeksolutions)**. <br> 🌱 Atualmente aprendendo mais sobre... [Inteligência artificial!]
+
+---
+
+### 📱 QR Code Animado
+
+<p align="center"> <!-- Esse é o link direto do GIF que você escolheu --> <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" alt="GIF de um QR Code" width="300"/> </p>
+
+---
+
+### 🔗 Meus Links Principais
+
+Aqui estão os links no meu estilo "código" favorito. Para ver a lista completa, [clique aqui](https://klimek-dev.github.io/link-bio/).
+
+<br>
+
+**// ListaFácil: Meu novo app grátis!** ```javascript const meuApp = "ListaFácil"; ``` ➡️ **[Teste o ListaFácil aqui!](https://klimek-dev.github.io/listafacil/)**
+
+<br>
+
+**// Klimek Solutions: Minha empresa** ```javascript getEmpresa("Klimek Solutions") ``` ➡️ **[Siga a Klimek Solutions no Instagram!](https://instagram.com/klimeksolutions)**
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+Aqui estão algumas das minhas estatísticas (as imagens podem demorar um segundo para carregar):
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=klimek-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de klimek-dev" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimek-dev&layout=compact&theme=github_dark" alt="Linguagens mais usadas por klimek-dev" /> </p>
+
+---
+
+### 🤝 Conecte-se Comigo
+
+<p align="left"> <!-- Link do seu Instagram Pessoal Adicionado --> <a href="https://instagram.com/igor_klimek" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Pessoal"/> </a> <a href="https://klimek-dev.github.io/link-bio/" target="_blank"> <img src="https://img.shields.io/badge/Meus_Links-000000?style=for-the-badge&logo=linktree&logoColor=cyan" alt="Minha Página de Links"/> </a> <a href="https://github.com/klimek-dev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Perfil do GitHub"/> </a> </p>
