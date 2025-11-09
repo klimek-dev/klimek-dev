@@ -4,6 +4,10 @@
 
 ---
 
+<p align="center"> <!-- Esse é o link direto do GIF --> <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" alt="GIF de um QR Code" width="300"/> </p>
+
+---
+
 ### 🚀 Sobre Mim
 
 🔭 Atualmente trabalhando no **[ListaFácil](https://klimek-dev.github.io/listafacil/)** e na **[Klimek Solutions](https://instagram.com/klimeksolutions)**. <br> 🌱 Atualmente aprendendo mais sobre... [Inteligência Artificial!]
@@ -11,9 +15,7 @@
 ---
 
 
-<p align="center"> <!-- Esse é o link direto do GIF --> <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" alt="GIF de um QR Code" width="300"/> </p>
 
----
 
 ### 🔗 Meus Links Principais
 
@@ -21,7 +23,7 @@ Aqui estão os links no meu estilo "código" favorito. Para ver a lista completa
 
 <br>
 
-**// ListaFácil: Meu novo app grátis!** ```javascript const meuApp = "ListaFácil"; ``` ➡️ **[Teste o ListaFácil aqui!](https://klimek-dev.github.io/listafacil/)**
+**// ListaFácil: Meu novo app grátis!** ```javascript const meuApp = "ListaFácil"; ```➡️ **[Teste o ListaFácil aqui!](https://klimek-dev.github.io/listafacil/)**
 
 <br>
 
