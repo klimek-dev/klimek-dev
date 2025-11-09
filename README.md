@@ -2,9 +2,8 @@
 
 <p> <em>Dev Full-Stack | Fundador da Klimek Solutions</em> </p>
 
----
 
-<p align="center"> <!-- Esse é o link direto do GIF --> <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" alt="GIF de um QR Code" width="300"/> </p>
+<p align="center"> <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" alt="GIF de um QR Code" width="300"/> </p>
 
 ---
 
@@ -14,25 +13,23 @@
 
 ---
 
-
-
-
 ### 🔗 Meus Links Principais
 
 Aqui estão os links no meu estilo "código" favorito. Para ver a lista completa, [clique aqui](https://klimek-dev.github.io/link-bio/).
 
 <br>
 
-**// ListaFácil: Meu novo app grátis!** ```javascript const meuApp = "ListaFácil"; ```➡️ **[Teste o ListaFácil aqui!](https://klimek-dev.github.io/listafacil/)**
+```javascript
+const meuApp = "ListaFácil";
+// Teste aqui: [https://klimek-dev.github.io/listafacil/](https://klimek-dev.github.io/listafacil/)
 
-<br>
+getEmpresa("Klimek Solutions")
+// Siga no Instagram: [https://instagram.com/klimeksolutions](https://instagram.com/klimeksolutions)
 
-**// Klimek Solutions: Minha empresa** ```javascript getEmpresa("Klimek Solutions") ``` ➡️ **[Siga a Klimek Solutions no Instagram!](https://instagram.com/klimeksolutions)**
+const meuCanal = "Bits de Informação";
+// Assista aqui: [https://www.youtube.com/@BitsdeInformacao](https://www.youtube.com/@BitsdeInformacao)
 
-<br>
-
-**// Meu Canal no YouTube** ```javascript const meuCanal = "Bits de Informação"; ``` ➡️ **[Assista ao "Bits de Informação" no YouTube!](https://www.youtube.com/@BitsdeInformacao)**
-
+```
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
@@ -46,3 +43,5 @@ Aqui estão algumas das minhas estatísticas (as imagens podem demorar um segund
 ### 🤝 Conecte-se Comigo
 
 <p align="left"> <a href="https://www.youtube.com/@BitsdeInformacao" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal do YouTube Bits de Informação"/> </a> <a href="https://instagram.com/igor_klimek" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Pessoal"/> </a> <a href="https://klimek-dev.github.io/link-bio/" target="_blank"> <img src="https://img.shields.io/badge/Meus_Links-000000?style=for-the-badge&logo=linktree&logoColor=cyan" alt="Minha Página de Links"/> </a> <a href="https://github.com/klimek-dev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Perfil do GitHub"/> </a> </p>
+
+
