@@ -5,23 +5,23 @@
 
 <br>
 
-## <img src="https://api.iconify.design/octicon/person-24.svg?color=c9d1d9" width="28"> SOBRE MIM
+## <img src="https://api.iconify.design/octicon/person-24.svg?color=white" width="28"> SOBRE MIM
 Desenvolvo software e automatizo operações de negócio com foco em resultado mensurável. Fundei a Klimek Solutions para entregar sistemas sob medida, automações de alto volume e produtos digitais que escalam. A maior parte do meu código crítico — incluindo trabalhos na minha linguagem mãe, C — está em repositórios privados. O que você vê aqui é a superfície pública do trabalho.
 
 Atuo nos dois lados da mesa: escrevo código de produção e estruturo a lógica de negócio por trás de cada produto.
 
 ---
 
-## <img src="https://api.iconify.design/octicon/briefcase-24.svg?color=c9d1d9" width="28"> PORTFÓLIO EM DESTAQUE
+## <img src="https://api.iconify.design/octicon/briefcase-24.svg?color=white" width="28"> PORTFÓLIO EM DESTAQUE
 
-| <div align="center"><img src="./assets/klimek-logo.svg" width="150" alt="Klimek Solutions Logo"><br><br><b>Klimek Solutions</b></div> | <div align="center"><img src="./assets/pizzaflow-logo.svg" width="150" alt="PizzaFlow Logo"><br><br><b>PizzaFlow</b></div> |
+| <div align="center"><img src="./assets/klimek-logo.svg" width="150" alt="Klimek Solutions Logo"><br><br><b>Klimek Solutions</b></div> | <div align="center"><img src="./assets/pizzaflow-logo.svg" width="220" alt="PizzaFlow Logo"><br><br><b>PizzaFlow</b></div> |
 | :--- | :--- |
 | **Agência de Tecnologia** especializada em desenvolvimento de sistemas, automações de processos e integração de plataformas. Atendimento B2B com foco em eficiência operacional. | **Plataforma SaaS** de gestão e automação de pedidos para pizzarias. Sistema end-to-end com integração via API do WhatsApp, painel operacional e fluxo de caixa. |
 | <div align="center"><a href="https://klimeksolutions.com.br"><img src="https://img.shields.io/badge/Acessar%20Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a></div> | <div align="center"><a href="https://pizzaflow.app"><img src="https://img.shields.io/badge/Acessar%20App-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" /></a></div> |
 
 ---
 
-## <img src="https://api.iconify.design/octicon/terminal-24.svg?color=c9d1d9" width="28"> STACK TÉCNICA E HABILIDADES
+## <img src="https://api.iconify.design/octicon/terminal-24.svg?color=white" width="28"> STACK TÉCNICA E HABILIDADES
 
 **Linguagens & Frameworks** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ Atuo nos dois lados da mesa: escrevo código de produção e estruturo a lógica
 
 ---
 
-## <img src="https://api.iconify.design/octicon/link-24.svg?color=c9d1d9" width="28"> REDES E CONTATOS
+## <img src="https://api.iconify.design/octicon/link-24.svg?color=white" width="28"> REDES E CONTATOS
 
 <div align="center">
   <a href="https://www.youtube.com/@BitsdeInformacao"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
