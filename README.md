@@ -14,7 +14,7 @@ Atuo nos dois lados da mesa: escrevo código de produção e estruturo a lógica
 
 ## PORTFÓLIO EM DESTAQUE
 
-| <div align="center">Klimek Solutions</div> | <div align="center">PizzaFlow</div> |
+| <div align="center"><img src="./assets/klimek-logo.svg" width="150" alt="Klimek Solutions Logo"><br><br><b>Klimek Solutions</b></div> | <div align="center"><img src="./assets/pizzaflow-logo.svg" width="150" alt="PizzaFlow Logo"><br><br><b>PizzaFlow</b></div> |
 | :--- | :--- |
 | **Agência de Tecnologia** especializada em desenvolvimento de sistemas, automações de processos e integração de plataformas. Atendimento B2B com foco em eficiência operacional. | **Plataforma SaaS** de gestão e automação de pedidos para pizzarias. Sistema end-to-end com integração via API do WhatsApp, painel operacional e fluxo de caixa. |
 | <div align="center"><a href="https://klimeksolutions.com.br"><img src="https://img.shields.io/badge/Acessar%20Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a></div> | <div align="center"><a href="https://pizzaflow.app"><img src="https://img.shields.io/badge/Acessar%20App-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" /></a></div> |
